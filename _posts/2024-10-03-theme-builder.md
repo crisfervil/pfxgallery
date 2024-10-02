@@ -20,7 +20,6 @@ This generator will help you creating a theme for your Canvas App.
 3. Configure your style.
 4. Copy the generated code into the Formulas section of your app.
 
-
 <a id="copyCode" class="btn btn-sm btn-primary mt-2" href="#">Copy Code</a>
 
 ###### Code
