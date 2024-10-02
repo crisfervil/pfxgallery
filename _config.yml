@@ -24,13 +24,19 @@ description: >- # this means to ignore newlines until "baseurl:"
   Site containing PowerFX snippets ready to use in your Power Platform developments.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+logo: 'assets/images/logo.png'
 twitter_username: crisfervil
 github_username:  crisfervil
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Pagination
+paginate: 18
+paginate_path: "/page/:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
