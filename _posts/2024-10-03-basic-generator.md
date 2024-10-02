@@ -20,6 +20,7 @@ Copy the code below into an empty Power Apps Canvas App screen.
 <a id="copyCode" class="btn btn-sm btn-primary mt-2" href="#">Copy Code</a>
 
 ###### Code
+{% raw %}
 ```md
 - HtmlText1_1:
     Control: HtmlViewer
@@ -98,3 +99,4 @@ Copy the code below into an empty Power Apps Canvas App screen.
       X: =40
       Y: =105
 ```
+{% endraw %}
