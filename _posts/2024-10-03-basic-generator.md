@@ -21,7 +21,7 @@ Copy the code below into an empty Power Apps Canvas App screen.
 
 ###### Code
 {% raw %}
-```md
+```yaml
 - HtmlText1_1:
     Control: HtmlViewer
     Properties:

@@ -24,7 +24,7 @@ This generator will help you creating a theme for your Canvas App.
 
 ###### Code
 {% raw %}
-```md
+```yaml
 - cntThemeBuilderMain:
     Control: GroupContainer
     Variant: horizontalAutoLayoutContainer

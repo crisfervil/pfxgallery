@@ -21,7 +21,7 @@ Copy the code below into an empty Power Apps Canvas App screen. Then click on th
 
 ###### Code
 {% raw %}
-```md
+```yaml
 - cntMainBPF:
     Control: GroupContainer
     Variant: verticalAutoLayoutContainer
