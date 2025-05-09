@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
-  "Domain": "pfx.gallery",
-  "Id": "acb2a8f8-e200-4256-ae26-2104f7620512"
-}
